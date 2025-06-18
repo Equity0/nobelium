@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '思博',
+  title: 'Thinking',
   author: 'Diz',
   email: 'crises.salmons07@icloud.com',
   link: 'https://www.51120501.xyz',
